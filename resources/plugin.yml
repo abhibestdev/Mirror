@@ -1,0 +1,5 @@
+name: Mirror
+author: BlockGame Development Team
+version: 1.0
+main: us.blockgame.mirror.MirrorPlugin
+depend: [BGLib]
